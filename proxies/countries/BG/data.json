@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "http://185.246.222.34:50100",
+    "proxy": "http://151.237.86.78:8080",
     "protocol": "http",
-    "ip": "185.246.222.34",
-    "port": 50100,
+    "ip": "151.237.86.78",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
