@@ -13,6 +13,19 @@
     }
   },
   {
+    "proxy": "http://67.43.236.18:6271",
+    "protocol": "http",
+    "ip": "67.43.236.18",
+    "port": 6271,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AE",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://72.10.164.178:16085",
     "protocol": "http",
     "ip": "72.10.164.178",
