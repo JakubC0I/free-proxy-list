@@ -2,14 +2,14 @@ socks5://69.61.200.104:36181,ZZ,Unknown
 socks5://98.178.72.21:10919,ZZ,Unknown
 socks5://184.178.172.23:4145,ZZ,Unknown
 socks5://208.65.90.3:4145,US,Unknown
-socks5://121.169.46.116:1090,KR,Osan
+socks5://121.169.46.116:1090,KR,Unknown
 socks5://174.138.61.184:1080,US,Clifton
 socks5://193.233.254.8:1080,DE,Unknown
 socks5://193.233.254.9:1080,DE,Unknown
 socks5://193.233.254.7:1080,DE,Unknown
 socks5://194.163.167.32:1080,FR,Lauterbourg
-socks5://5.255.117.127:1080,NL,Dronten
-socks5://5.255.113.177:1080,ZZ,Unknown
+socks5://5.255.117.127:1080,ZZ,Unknown
+socks5://5.255.113.177:1080,NL,Dronten
 socks5://5.255.117.250:1080,NL,Dronten
 socks5://64.188.124.97:1080,DE,Frankfurt am Main
 socks5://195.35.113.29:1080,NL,Amsterdam
@@ -289,6 +289,9 @@ socks5://36.255.98.160:5118,US,Unknown
 socks5://36.255.98.160:4546,US,Unknown
 socks5://62.60.131.178:12305,SG,Unknown
 socks5://36.255.98.167:9020,FR,Unknown
+socks5://124.248.164.156:1080,KH,Phnom Penh
+socks5://124.248.168.90:1080,KH,Phnom Penh
+socks5://47.236.20.209:1145,SG,
 socks5://62.133.62.12:1081,FR,Paris
 socks5://198.177.253.13:4145,US,
 socks5://194.163.182.6:1080,FR,Lauterbourg
@@ -299,7 +302,6 @@ socks5://47.243.94.125:1080,HK,Hong Kong
 socks5://194.58.42.234:1080,KZ,Almaty
 socks5://134.209.29.120:1080,GB,Slough
 socks5://202.62.52.206:1080,KH,Phnom Penh
-socks5://124.248.168.90:1080,KH,Phnom Penh
 socks5://116.212.142.239:1080,KH,Phnom Penh
 socks5://111.61.73.175:7302,ZZ,Unknown
 socks5://203.25.208.163:1100,CN,

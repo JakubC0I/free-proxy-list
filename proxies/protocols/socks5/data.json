@@ -61,7 +61,7 @@
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Osan"
+      "city": "Unknown"
     }
   },
   {
@@ -138,8 +138,8 @@
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "NL",
-      "city": "Dronten"
+      "country": "ZZ",
+      "city": "Unknown"
     }
   },
   {
@@ -151,8 +151,8 @@
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "ZZ",
-      "city": "Unknown"
+      "country": "NL",
+      "city": "Dronten"
     }
   },
   {
@@ -3783,6 +3783,45 @@
     }
   },
   {
+    "proxy": "socks5://124.248.164.156:1080",
+    "protocol": "socks5",
+    "ip": "124.248.164.156",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KH",
+      "city": "Phnom Penh"
+    }
+  },
+  {
+    "proxy": "socks5://124.248.168.90:1080",
+    "protocol": "socks5",
+    "ip": "124.248.168.90",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KH",
+      "city": "Phnom Penh"
+    }
+  },
+  {
+    "proxy": "socks5://47.236.20.209:1145",
+    "protocol": "socks5",
+    "ip": "47.236.20.209",
+    "port": 1145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": ""
+    }
+  },
+  {
     "proxy": "socks5://62.133.62.12:1081",
     "protocol": "socks5",
     "ip": "62.133.62.12",
@@ -3903,19 +3942,6 @@
     "proxy": "socks5://202.62.52.206:1080",
     "protocol": "socks5",
     "ip": "202.62.52.206",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KH",
-      "city": "Phnom Penh"
-    }
-  },
-  {
-    "proxy": "socks5://124.248.168.90:1080",
-    "protocol": "socks5",
-    "ip": "124.248.168.90",
     "port": 1080,
     "https": false,
     "anonymity": "transparent",
