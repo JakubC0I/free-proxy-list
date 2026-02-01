@@ -63,18 +63,5 @@
       "country": "IT",
       "city": "Unknown"
     }
-  },
-  {
-    "proxy": "http://87.10.214.128:3128",
-    "protocol": "http",
-    "ip": "87.10.214.128",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Unknown"
-    }
   }
 ]
