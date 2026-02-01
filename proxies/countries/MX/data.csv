@@ -1,4 +1,6 @@
+socks4://170.81.141.254:61437,MX,Unknown
 http://148.233.136.213:443,MX,Unknown
+http://201.140.185.41:443,MX,Unknown
 http://187.251.224.167:8081,MX,Unknown
 http://201.159.99.37:8081,MX,Unknown
 http://5.102.109.41:999,MX,Unknown
@@ -12,8 +14,9 @@ http://201.159.111.121:8081,MX,Unknown
 http://38.194.231.70:999,MX,Unknown
 http://38.194.231.66:999,MX,Unknown
 http://201.150.6.201:8081,MX,Unknown
-http://45.174.241.172:999,MX,Unknown
 http://131.196.245.120:999,MX,Unknown
+http://45.174.250.10:999,MX,Unknown
+http://45.174.253.2:999,MX,Unknown
 http://45.174.241.241:999,MX,Unknown
 http://187.190.58.152:8081,MX,Unknown
 http://154.27.200.25:999,MX,Unknown
@@ -24,10 +27,11 @@ http://177.229.197.154:999,MX,Unknown
 http://177.229.197.230:999,MX,Unknown
 http://45.190.76.16:999,MX,Unknown
 http://45.190.76.17:999,MX,Unknown
-http://177.247.249.5:3128,MX,Unknown
 http://45.174.243.20:999,MX,Unknown
 http://201.150.116.3:999,MX,Unknown
 http://45.174.253.64:999,MX,Unknown
 http://177.241.119.191:8080,MX,Unknown
-http://72.10.160.92:20547,MX,Unknown
+http://82.27.100.87:3128,MX,Unknown
+socks4://187.216.144.170:5678,MX,Guadalajara
+http://189.222.86.60:8080,MX,Mexicali
 http://189.202.188.149:80,MX,Kanas?n

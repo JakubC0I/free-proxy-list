@@ -1,16 +1,18 @@
 socks5://62.60.131.178:4274,CA,Unknown
+socks5://152.53.171.242:49663,CA,Unknown
 socks5://152.53.171.242:26763,CA,Unknown
 socks5://152.53.171.242:13316,CA,Unknown
 socks5://152.53.171.242:15577,CA,Unknown
-socks5://152.53.171.242:22791,CA,Unknown
+socks5://152.53.171.242:19087,CA,Unknown
+socks5://152.53.171.242:16140,CA,Unknown
+socks4://45.73.0.118:5678,CA,Unknown
 http://51.161.79.152:8888,CA,Unknown
 http://146.19.9.236:443,CA,Unknown
-http://149.56.24.51:3128,CA,Unknown
-http://51.222.200.225:3128,CA,Unknown
-http://89.251.9.11:3128,CA,Unknown
-http://148.113.201.91:8888,CA,Unknown
+http://148.113.172.51:8080,CA,
+http://15.235.40.75:3128,CA,Unknown
 http://72.10.160.170:2743,CA,Unknown
-http://72.10.160.173:17391,CA,Unknown
+http://23.227.60.196:80,CA,
+http://23.227.38.211:80,CA,
 socks4://192.111.129.150:4145,CA,North York
 http://23.227.39.231:80,CA,Ottawa
 http://23.227.39.72:80,CA,Ottawa
@@ -20,5 +22,3 @@ http://23.227.38.162:80,CA,
 http://23.227.39.10:80,CA,Ottawa
 http://23.227.38.206:80,CA,
 http://23.227.38.161:80,CA,
-http://23.227.38.50:80,CA,
-http://148.113.172.51:8080,CA,
