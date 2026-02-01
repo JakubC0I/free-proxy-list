@@ -1,7 +1,11 @@
-socks5://62.60.131.203:4540,PL,Unknown
-socks5://36.255.98.169:8887,PL,Unknown
-socks5://36.255.98.160:4694,PL,Unknown
-socks5://36.255.98.164:16010,PL,Unknown
+socks5://36.255.98.153:5280,PL,Unknown
+socks5://36.255.98.182:8821,PL,Unknown
+socks5://36.255.98.160:4280,PL,Unknown
+socks5://62.60.131.191:4794,PL,Unknown
+socks5://62.60.131.194:5094,PL,Unknown
+socks5://36.255.98.163:4217,PL,Unknown
+socks5://62.60.131.189:7070,PL,Unknown
+socks5://36.255.98.161:4228,PL,Unknown
 socks5://36.255.98.153:4841,PL,Unknown
 socks5://36.255.98.181:5409,PL,Unknown
 socks5://62.60.131.193:10964,PL,Unknown
@@ -19,8 +23,9 @@ http://151.115.98.205:443,PL,Unknown
 http://37.120.156.34:9443,PL,Unknown
 http://37.120.156.18:9443,PL,Unknown
 http://82.118.20.183:443,PL,Unknown
-http://83.168.74.163:8080,PL,Unknown
+http://83.168.74.163:8080,PL,Wroclaw
 http://212.127.95.235:8081,PL,Wroclaw
-http://78.9.232.205:8080,PL,Unknown
+http://79.110.200.27:8000,PL,Unknown
+http://79.110.200.148:8081,PL,Unknown
 http://178.212.144.7:80,PL,Sok??ka
 http://79.110.202.131:8081,PL,Unknown

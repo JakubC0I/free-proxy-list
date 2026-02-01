@@ -24,5 +24,18 @@
       "country": "SA",
       "city": "Unknown"
     }
+  },
+  {
+    "proxy": "socks5://36.255.98.176:4938",
+    "protocol": "socks5",
+    "ip": "36.255.98.176",
+    "port": 4938,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SA",
+      "city": "Unknown"
+    }
   }
 ]
