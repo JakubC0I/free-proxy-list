@@ -1,9 +1,35 @@
 [
   {
-    "proxy": "socks5://152.53.171.242:29476",
+    "proxy": "socks5://152.53.171.242:18489",
     "protocol": "socks5",
     "ip": "152.53.171.242",
-    "port": 29476,
+    "port": 18489,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://62.60.131.191:11698",
+    "protocol": "socks5",
+    "ip": "62.60.131.191",
+    "port": 11698,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://185.130.219.12:4153",
+    "protocol": "socks4",
+    "ip": "185.130.219.12",
+    "port": 4153,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -17,6 +43,19 @@
     "protocol": "socks4",
     "ip": "90.69.168.13",
     "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://194.156.74.84:9999",
+    "protocol": "socks4",
+    "ip": "194.156.74.84",
+    "port": 9999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -52,10 +91,10 @@
     }
   },
   {
-    "proxy": "http://80.78.128.94:8080",
+    "proxy": "http://185.202.165.1:53281",
     "protocol": "http",
-    "ip": "80.78.128.94",
-    "port": 8080,
+    "ip": "185.202.165.1",
+    "port": 53281,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -65,16 +104,16 @@
     }
   },
   {
-    "proxy": "http://195.189.190.245:9090",
+    "proxy": "http://185.238.228.254:80",
     "protocol": "http",
-    "ip": "195.189.190.245",
-    "port": 9090,
+    "ip": "185.238.228.254",
+    "port": 80,
     "https": false,
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "score": 1,
     "geolocation": {
       "country": "ES",
-      "city": "Unknown"
+      "city": ""
     }
   },
   {

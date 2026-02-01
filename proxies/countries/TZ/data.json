@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "http://41.93.63.66:8080",
-    "protocol": "http",
-    "ip": "41.93.63.66",
-    "port": 8080,
+    "proxy": "socks5://36.255.98.180:4035",
+    "protocol": "socks5",
+    "ip": "36.255.98.180",
+    "port": 4035,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
