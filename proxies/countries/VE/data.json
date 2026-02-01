@@ -65,22 +65,9 @@
     }
   },
   {
-    "proxy": "http://138.118.200.49:999",
+    "proxy": "http://190.97.243.141:999",
     "protocol": "http",
-    "ip": "138.118.200.49",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://38.41.12.89:999",
-    "protocol": "http",
-    "ip": "38.41.12.89",
+    "ip": "190.97.243.141",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -104,9 +91,9 @@
     }
   },
   {
-    "proxy": "http://45.230.169.5:999",
+    "proxy": "http://186.167.112.91:999",
     "protocol": "http",
-    "ip": "45.230.169.5",
+    "ip": "186.167.112.91",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -247,6 +234,19 @@
     }
   },
   {
+    "proxy": "http://190.97.249.30:999",
+    "protocol": "http",
+    "ip": "190.97.249.30",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://38.159.63.8:999",
     "protocol": "http",
     "ip": "38.159.63.8",
@@ -286,9 +286,9 @@
     }
   },
   {
-    "proxy": "http://190.97.228.234:999",
+    "proxy": "http://190.97.232.249:999",
     "protocol": "http",
-    "ip": "190.97.228.234",
+    "ip": "190.97.232.249",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -322,19 +322,6 @@
     "geolocation": {
       "country": "VE",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://200.108.190.110:9800",
-    "protocol": "socks4",
-    "ip": "200.108.190.110",
-    "port": 9800,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Guarenas"
     }
   }
 ]
