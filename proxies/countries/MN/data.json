@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://45.170.128.125:999",
+    "proxy": "http://72.10.164.178:28409",
     "protocol": "http",
-    "ip": "45.170.128.125",
-    "port": 999,
+    "ip": "72.10.164.178",
+    "port": 28409,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "PY",
+      "country": "MN",
       "city": "Unknown"
     }
   }
