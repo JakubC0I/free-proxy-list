@@ -26,10 +26,10 @@
     }
   },
   {
-    "proxy": "http://91.73.223.206:8000",
+    "proxy": "http://151.242.116.245:80",
     "protocol": "http",
-    "ip": "91.73.223.206",
-    "port": 8000,
+    "ip": "151.242.116.245",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
