@@ -11,31 +11,5 @@
       "country": "HN",
       "city": "Unknown"
     }
-  },
-  {
-    "proxy": "http://181.78.44.243:999",
-    "protocol": "http",
-    "ip": "181.78.44.243",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.250:3057",
-    "protocol": "http",
-    "ip": "67.43.228.250",
-    "port": 3057,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HN",
-      "city": "Unknown"
-    }
   }
 ]
