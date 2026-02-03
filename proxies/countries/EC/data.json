@@ -1,21 +1,8 @@
 [
   {
-    "proxy": "http://177.234.217.44:999",
+    "proxy": "http://45.171.111.255:999",
     "protocol": "http",
-    "ip": "177.234.217.44",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://177.234.217.43:999",
-    "protocol": "http",
-    "ip": "177.234.217.43",
+    "ip": "45.171.111.255",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -39,9 +26,9 @@
     }
   },
   {
-    "proxy": "http://181.224.175.240:999",
+    "proxy": "http://45.70.236.194:999",
     "protocol": "http",
-    "ip": "181.224.175.240",
+    "ip": "45.70.236.194",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -52,9 +39,22 @@
     }
   },
   {
-    "proxy": "http://190.12.150.244:999",
+    "proxy": "http://45.70.236.121:8080",
     "protocol": "http",
-    "ip": "190.12.150.244",
+    "ip": "45.70.236.121",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://177.234.210.56:999",
+    "protocol": "http",
+    "ip": "177.234.210.56",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -78,9 +78,9 @@
     }
   },
   {
-    "proxy": "http://177.234.217.82:999",
+    "proxy": "http://177.234.217.236:999",
     "protocol": "http",
-    "ip": "177.234.217.82",
+    "ip": "177.234.217.236",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -130,22 +130,9 @@
     }
   },
   {
-    "proxy": "http://177.234.217.237:999",
+    "proxy": "http://8.243.197.202:999",
     "protocol": "http",
-    "ip": "177.234.217.237",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://177.234.217.234:999",
-    "protocol": "http",
-    "ip": "177.234.217.234",
+    "ip": "8.243.197.202",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -169,9 +156,9 @@
     }
   },
   {
-    "proxy": "http://200.24.130.144:999",
+    "proxy": "http://200.24.130.150:999",
     "protocol": "http",
-    "ip": "200.24.130.144",
+    "ip": "200.24.130.150",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -182,9 +169,9 @@
     }
   },
   {
-    "proxy": "http://8.243.196.49:999",
+    "proxy": "http://200.24.130.148:999",
     "protocol": "http",
-    "ip": "8.243.196.49",
+    "ip": "200.24.130.148",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -195,10 +182,10 @@
     }
   },
   {
-    "proxy": "http://200.24.159.230:8080",
+    "proxy": "http://200.24.130.149:999",
     "protocol": "http",
-    "ip": "200.24.159.230",
-    "port": 8080,
+    "ip": "200.24.130.149",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -221,9 +208,9 @@
     }
   },
   {
-    "proxy": "http://181.78.194.249:999",
+    "proxy": "http://45.171.108.8:999",
     "protocol": "http",
-    "ip": "181.78.194.249",
+    "ip": "45.171.108.8",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -231,45 +218,6 @@
     "geolocation": {
       "country": "EC",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://72.10.164.178:14307",
-    "protocol": "http",
-    "ip": "72.10.164.178",
-    "port": 14307,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://181.78.198.151:999",
-    "protocol": "http",
-    "ip": "181.78.198.151",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://179.60.53.26:999",
-    "protocol": "http",
-    "ip": "179.60.53.26",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Sigsig"
     }
   }
 ]
