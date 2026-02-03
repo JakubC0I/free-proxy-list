@@ -13,6 +13,58 @@
     }
   },
   {
+    "proxy": "http://185.162.228.0:80",
+    "protocol": "http",
+    "ip": "185.162.228.0",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.162.230.162:80",
+    "protocol": "http",
+    "ip": "185.162.230.162",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.162.228.85:80",
+    "protocol": "http",
+    "ip": "185.162.228.85",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.162.229.241:80",
+    "protocol": "http",
+    "ip": "185.162.229.241",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": ""
+    }
+  },
+  {
     "proxy": "http://185.162.231.206:80",
     "protocol": "http",
     "ip": "185.162.231.206",
@@ -198,149 +250,6 @@
     "proxy": "http://185.162.228.17:80",
     "protocol": "http",
     "ip": "185.162.228.17",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.229.225:80",
-    "protocol": "http",
-    "ip": "185.162.229.225",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.231.181:80",
-    "protocol": "http",
-    "ip": "185.162.231.181",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.229.210:80",
-    "protocol": "http",
-    "ip": "185.162.229.210",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.230.238:80",
-    "protocol": "http",
-    "ip": "185.162.230.238",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.228.242:80",
-    "protocol": "http",
-    "ip": "185.162.228.242",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.230.170:80",
-    "protocol": "http",
-    "ip": "185.162.230.170",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.229.22:80",
-    "protocol": "http",
-    "ip": "185.162.229.22",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.228.90:80",
-    "protocol": "http",
-    "ip": "185.162.228.90",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.228.112:80",
-    "protocol": "http",
-    "ip": "185.162.228.112",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.231.159:80",
-    "protocol": "http",
-    "ip": "185.162.231.159",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.162.231.131:80",
-    "protocol": "http",
-    "ip": "185.162.231.131",
     "port": 80,
     "https": false,
     "anonymity": "elite",
