@@ -178,7 +178,7 @@
     "score": 1,
     "geolocation": {
       "country": "PL",
-      "city": "Unknown"
+      "city": "Wroclaw"
     }
   },
   {
@@ -191,7 +191,7 @@
     "score": 1,
     "geolocation": {
       "country": "PL",
-      "city": "Unknown"
+      "city": "Wroclaw"
     }
   },
   {
@@ -217,7 +217,7 @@
     "score": 1,
     "geolocation": {
       "country": "PL",
-      "city": "Unknown"
+      "city": "Wroclaw"
     }
   },
   {
@@ -251,19 +251,6 @@
     "protocol": "http",
     "ip": "79.110.202.131",
     "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://83.25.25.39:3128",
-    "protocol": "http",
-    "ip": "83.25.25.39",
-    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
