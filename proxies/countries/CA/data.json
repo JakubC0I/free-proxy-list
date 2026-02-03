@@ -1,87 +1,9 @@
 [
   {
-    "proxy": "socks5://152.53.171.242:18943",
-    "protocol": "socks5",
-    "ip": "152.53.171.242",
-    "port": 18943,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://152.53.171.242:14229",
-    "protocol": "socks5",
-    "ip": "152.53.171.242",
-    "port": 14229,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://152.53.171.242:11679",
     "protocol": "socks5",
     "ip": "152.53.171.242",
     "port": 11679,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://152.53.171.242:30793",
-    "protocol": "socks5",
-    "ip": "152.53.171.242",
-    "port": 30793,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://152.53.171.242:18157",
-    "protocol": "socks5",
-    "ip": "152.53.171.242",
-    "port": 18157,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://152.53.171.242:17359",
-    "protocol": "socks5",
-    "ip": "152.53.171.242",
-    "port": 17359,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://152.53.171.242:26108",
-    "protocol": "socks5",
-    "ip": "152.53.171.242",
-    "port": 26108,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -143,16 +65,29 @@
     }
   },
   {
-    "proxy": "http://148.113.201.91:8888",
+    "proxy": "http://146.19.9.236:80",
     "protocol": "http",
-    "ip": "148.113.201.91",
-    "port": 8888,
+    "ip": "146.19.9.236",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CA",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://23.227.38.33:80",
+    "protocol": "http",
+    "ip": "23.227.38.33",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Ottawa"
     }
   },
   {

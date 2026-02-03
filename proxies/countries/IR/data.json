@@ -11,18 +11,5 @@
       "country": "IR",
       "city": ""
     }
-  },
-  {
-    "proxy": "socks5://62.60.131.189:5005",
-    "protocol": "socks5",
-    "ip": "62.60.131.189",
-    "port": 5005,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IR",
-      "city": "Tehran"
-    }
   }
 ]

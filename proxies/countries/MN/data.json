@@ -1,0 +1,15 @@
+[
+  {
+    "proxy": "socks5://36.255.98.153:14712",
+    "protocol": "socks5",
+    "ip": "36.255.98.153",
+    "port": 14712,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MN",
+      "city": "Unknown"
+    }
+  }
+]

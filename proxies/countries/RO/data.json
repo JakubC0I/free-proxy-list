@@ -2301,6 +2301,19 @@
     }
   },
   {
+    "proxy": "http://45.12.31.240:80",
+    "protocol": "http",
+    "ip": "45.12.31.240",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "RO",
+      "city": ""
+    }
+  },
+  {
     "proxy": "http://45.12.30.128:80",
     "protocol": "http",
     "ip": "45.12.30.128",
@@ -2356,45 +2369,6 @@
     "proxy": "http://45.85.119.125:80",
     "protocol": "http",
     "ip": "45.85.119.125",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "RO",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.12.31.240:80",
-    "protocol": "http",
-    "ip": "45.12.31.240",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "RO",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.12.31.177:80",
-    "protocol": "http",
-    "ip": "45.12.31.177",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "RO",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.12.31.3:80",
-    "protocol": "http",
-    "ip": "45.12.31.3",
     "port": 80,
     "https": false,
     "anonymity": "elite",
