@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://47.238.203.170:50000",
+    "proxy": "socks5://36.255.98.153:4086",
     "protocol": "socks5",
-    "ip": "47.238.203.170",
-    "port": 50000,
+    "ip": "36.255.98.153",
+    "port": 4086,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
