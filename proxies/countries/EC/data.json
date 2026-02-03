@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "http://177.234.217.42:999",
+    "protocol": "http",
+    "ip": "177.234.217.42",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://177.234.217.43:999",
     "protocol": "http",
     "ip": "177.234.217.43",
@@ -17,32 +30,6 @@
     "protocol": "http",
     "ip": "181.233.50.233",
     "port": 8787,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://181.78.198.7:8080",
-    "protocol": "http",
-    "ip": "181.78.198.7",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://45.4.202.170:999",
-    "protocol": "http",
-    "ip": "45.4.202.170",
-    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -75,6 +62,19 @@
     "geolocation": {
       "country": "EC",
       "city": "Rosa Zarate"
+    }
+  },
+  {
+    "proxy": "http://177.234.210.56:999",
+    "protocol": "http",
+    "ip": "177.234.210.56",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Unknown"
     }
   },
   {
@@ -117,32 +117,6 @@
     }
   },
   {
-    "proxy": "http://177.234.217.84:999",
-    "protocol": "http",
-    "ip": "177.234.217.84",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://177.234.217.83:999",
-    "protocol": "http",
-    "ip": "177.234.217.83",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://8.243.197.202:999",
     "protocol": "http",
     "ip": "8.243.197.202",
@@ -169,6 +143,19 @@
     }
   },
   {
+    "proxy": "http://190.95.132.186:999",
+    "protocol": "http",
+    "ip": "190.95.132.186",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://200.24.130.144:999",
     "protocol": "http",
     "ip": "200.24.130.144",
@@ -179,6 +166,19 @@
     "geolocation": {
       "country": "EC",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://200.24.130.146:999",
+    "protocol": "http",
+    "ip": "200.24.130.146",
+    "port": 999,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": ""
     }
   },
   {
@@ -270,19 +270,6 @@
     "geolocation": {
       "country": "EC",
       "city": "Guayaquil"
-    }
-  },
-  {
-    "proxy": "http://200.24.130.146:999",
-    "protocol": "http",
-    "ip": "200.24.130.146",
-    "port": 999,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": ""
     }
   }
 ]
