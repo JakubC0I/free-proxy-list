@@ -1,13 +1,11 @@
-socks5://62.60.131.180:5384,TH,Unknown
-socks5://62.60.131.181:8597,TH,Unknown
+socks5://62.60.131.179:9998,TH,Unknown
+socks4://113.53.91.26:4153,TH,Unknown
 http://118.175.30.26:8080,TH,Unknown
 http://203.172.201.226:8080,TH,Unknown
-http://125.26.4.219:8080,TH,Unknown
 http://49.229.100.42:8080,TH,Unknown
-http://125.27.218.12:8080,TH,Unknown
 http://183.88.231.188:34599,TH,Unknown
-http://49.48.65.152:8080,TH,Unknown
+http://103.153.202.126:8080,TH,Unknown
 http://49.48.93.141:8080,TH,Unknown
 http://49.48.48.185:8080,TH,Unknown
-http://1.20.184.214:8080,TH,Unknown
+socks4://203.156.190.5:5678,TH,Bangkok
 http://154.197.69.137:8888,TH,Bangkok
