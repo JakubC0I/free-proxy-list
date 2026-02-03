@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks4://45.117.228.97:4145",
-    "protocol": "socks4",
-    "ip": "45.117.228.97",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://175.138.231.145:443",
     "protocol": "http",
     "ip": "175.138.231.145",
@@ -36,19 +23,6 @@
     "geolocation": {
       "country": "MY",
       "city": "Shah Alam"
-    }
-  },
-  {
-    "proxy": "http://175.139.233.76:80",
-    "protocol": "http",
-    "ip": "175.139.233.76",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Kota Kinabalu"
     }
   }
 ]
