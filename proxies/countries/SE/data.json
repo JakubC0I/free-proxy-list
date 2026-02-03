@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://149.104.105.114:3128",
+    "proxy": "http://165.225.192.37:10664",
     "protocol": "http",
-    "ip": "149.104.105.114",
-    "port": 3128,
+    "ip": "165.225.192.37",
+    "port": 10664,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "SA",
+      "country": "SE",
       "city": "Unknown"
     }
   }
