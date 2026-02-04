@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks5://62.60.152.189:5222",
-    "protocol": "socks5",
-    "ip": "62.60.152.189",
-    "port": 5222,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://165.225.192.37:10664",
     "protocol": "http",
     "ip": "165.225.192.37",
