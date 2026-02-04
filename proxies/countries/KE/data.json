@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "http://197.248.37.31:8104",
+    "proxy": "http://41.90.167.149:8082",
     "protocol": "http",
-    "ip": "197.248.37.31",
-    "port": 8104,
+    "ip": "41.90.167.149",
+    "port": 8082,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
