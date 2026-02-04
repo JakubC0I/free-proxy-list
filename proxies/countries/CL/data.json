@@ -13,9 +13,9 @@
     }
   },
   {
-    "proxy": "http://200.95.184.50:999",
+    "proxy": "http://45.225.207.183:999",
     "protocol": "http",
-    "ip": "200.95.184.50",
+    "ip": "45.225.207.183",
     "port": 999,
     "https": false,
     "anonymity": "transparent",

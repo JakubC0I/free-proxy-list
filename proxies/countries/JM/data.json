@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://72.10.160.91:6419",
+    "proxy": "http://208.163.39.218:53281",
     "protocol": "http",
-    "ip": "72.10.160.91",
-    "port": 6419,
+    "ip": "208.163.39.218",
+    "port": 53281,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "ET",
+      "country": "JM",
       "city": "Unknown"
     }
   }
