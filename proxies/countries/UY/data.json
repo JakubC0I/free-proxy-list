@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://41.203.83.242:8080",
+    "proxy": "http://67.43.236.19:31105",
     "protocol": "http",
-    "ip": "41.203.83.242",
-    "port": 8080,
+    "ip": "67.43.236.19",
+    "port": 31105,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "NG",
+      "country": "UY",
       "city": "Unknown"
     }
   }
