@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks4://62.60.231.71:56608",
+    "proxy": "socks4://81.228.44.187:65530",
     "protocol": "socks4",
-    "ip": "62.60.231.71",
-    "port": 56608,
+    "ip": "81.228.44.187",
+    "port": 65530,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
