@@ -1,36 +1,49 @@
 [
   {
+    "proxy": "socks5://36.255.98.177:4004",
+    "protocol": "socks5",
+    "ip": "36.255.98.177",
+    "port": 4004,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://36.255.98.154:4144",
+    "protocol": "socks5",
+    "ip": "36.255.98.154",
+    "port": 4144,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://36.255.98.179:4011",
+    "protocol": "socks5",
+    "ip": "36.255.98.179",
+    "port": 4011,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://175.138.231.145:443",
     "protocol": "http",
     "ip": "175.138.231.145",
     "port": 443,
     "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://58.84.16.214:1231",
-    "protocol": "http",
-    "ip": "58.84.16.214",
-    "port": 1231,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://67.43.236.20:18363",
-    "protocol": "http",
-    "ip": "67.43.236.20",
-    "port": 18363,
-    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -49,32 +62,6 @@
     "geolocation": {
       "country": "MY",
       "city": "Kuala Lumpur"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.173:5563",
-    "protocol": "http",
-    "ip": "72.10.160.173",
-    "port": 5563,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.91:8031",
-    "protocol": "http",
-    "ip": "72.10.160.91",
-    "port": 8031,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Unknown"
     }
   }
 ]
