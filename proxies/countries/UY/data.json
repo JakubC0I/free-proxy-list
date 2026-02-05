@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "http://67.43.236.20:8467",
+    "proxy": "http://72.10.164.178:1339",
     "protocol": "http",
-    "ip": "67.43.236.20",
-    "port": 8467,
+    "ip": "72.10.164.178",
+    "port": 1339,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
