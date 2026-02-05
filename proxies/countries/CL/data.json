@@ -39,9 +39,9 @@
     }
   },
   {
-    "proxy": "http://179.57.172.172:999",
+    "proxy": "http://45.225.207.183:999",
     "protocol": "http",
-    "ip": "179.57.172.172",
+    "ip": "45.225.207.183",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -52,10 +52,10 @@
     }
   },
   {
-    "proxy": "http://72.10.164.178:6387",
+    "proxy": "http://179.57.172.172:999",
     "protocol": "http",
-    "ip": "72.10.164.178",
-    "port": 6387,
+    "ip": "179.57.172.172",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
