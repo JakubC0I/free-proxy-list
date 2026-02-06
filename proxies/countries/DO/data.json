@@ -26,10 +26,10 @@
     }
   },
   {
-    "proxy": "http://72.10.164.178:7775",
+    "proxy": "http://190.89.38.30:999",
     "protocol": "http",
-    "ip": "72.10.164.178",
-    "port": 7775,
+    "ip": "190.89.38.30",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
