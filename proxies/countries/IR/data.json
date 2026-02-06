@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://188.75.78.130:1080",
-    "protocol": "socks5",
-    "ip": "188.75.78.130",
-    "port": 1080,
+    "proxy": "socks4://81.91.157.134:5678",
+    "protocol": "socks4",
+    "ip": "81.91.157.134",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
