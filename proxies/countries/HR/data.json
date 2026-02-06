@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "socks4://186.121.214.210:57775",
+    "proxy": "socks4://85.114.45.210:4153",
     "protocol": "socks4",
-    "ip": "186.121.214.210",
-    "port": 57775,
+    "ip": "85.114.45.210",
+    "port": 4153,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "BO",
+      "country": "HR",
       "city": "Unknown"
     }
   }
