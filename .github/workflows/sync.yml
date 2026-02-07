@@ -7,12 +7,14 @@ on:
 jobs:
   sync-and-format:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Ensure the bot has permission to push changes
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
+          fetch-depth: 0 # Fetches all history so merge can find a common ancestor
+          
       - name: Sync with Upstream
         run: |
           git remote add upstream https://github.com/proxifly/free-proxy-list
