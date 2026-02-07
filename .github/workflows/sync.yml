@@ -7,37 +7,49 @@ on:
 jobs:
   sync-and-format:
     runs-on: ubuntu-latest
+    # This is the "Magic Fix" for permission errors
     permissions:
-      contents: write # Ensure the bot has permission to push changes
+      contents: write
+    
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetches all history so merge can find a common ancestor
-          
-      - name: Sync with Upstream
-        run: |
-          git remote add upstream https://github.com/proxifly/free-proxy-list
-          git fetch upstream
-          git checkout main
-          git merge upstream/main --allow-unrelated-histories || echo "No changes to merge"
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Process Proxy List
-        run: |
-          # 1. Strip the protocol (everything up to and including //)
-          # 2. Strip the port (the colon and everything after it)
-          # 3. Sort and remove duplicates to keep Pi-hole efficient
-          # 4. Remove empty lines just in case
-          sed -e 's|^.*://||' -e 's/:.*$//' proxies/all/data.txt | sort -u | grep -v '^$' > pihole-list.txt
-          
-      - name: Commit and Push
+      - name: Configure Git Identity
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Avoid "safe directory" errors seen in your logs
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
+      - name: Sync with Upstream
+        run: |
+          # Use the actual upstream URL
+          git remote add upstream https://github.com/proxifly/free-proxy-list.git
+          git fetch upstream
+          
+          # Force a merge of upstream/main into your current branch
+          # Using --no-edit to avoid hanging on a commit message prompt
+          git merge upstream/main --allow-unrelated-histories -m "Auto-sync" || echo "Nothing to merge"
+
+      - name: Process Proxy List
+        run: |
+          # Make sure the directory exists before sed runs
+          if [ -f "proxies/all/data.txt" ]; then
+            sed -e 's|^.*://||' -e 's/:.*$//' proxies/all/data.txt | sort -u | grep -v '^$' > pihole-list.txt
+          else
+            echo "Source file not found!"
+            exit 1
+          fi
+          
+      - name: Commit and Push
+        run: |
           git add pihole-list.txt
           if git diff --staged --quiet; then
             echo "No changes to the proxy list."
           else
             git commit -m "Update Pi-hole formatted proxy list"
-            git push origin main
-          fi
+            git push origin HEAD:main
