@@ -1,19 +1,41 @@
-name: Sync Fork
+name: Sync and Format for Pi-hole
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch:      # Allows manual trigger
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
-  sync:
+  sync-and-format:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Sync with Upstream
         run: |
           git remote add upstream https://github.com/proxifly/free-proxy-list
           git fetch upstream
           git checkout main
-          git merge upstream/main
-          git push origin main
+          git merge upstream/main --allow-unrelated-histories || echo "No changes to merge"
+
+      - name: Process Proxy List
+        run: |
+          # 1. Strip the protocol (everything up to and including //)
+          # 2. Strip the port (the colon and everything after it)
+          # 3. Sort and remove duplicates to keep Pi-hole efficient
+          # 4. Remove empty lines just in case
+          sed -e 's|^.*://||' -e 's/:.*$//' proxies/all/data.txt | sort -u | grep -v '^$' > pihole-list.txt
+          
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add pihole-list.txt
+          if git diff --staged --quiet; then
+            echo "No changes to the proxy list."
+          else
+            git commit -m "Update Pi-hole formatted proxy list"
+            git push origin main
+          fi
